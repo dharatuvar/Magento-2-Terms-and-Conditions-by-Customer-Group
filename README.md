@@ -3,7 +3,7 @@ Meetanshi’s [***Magento 2 Terms and Conditions by Customer Group***](https://m
 
 Terms and Conditions plays a crucial role while starting an eCommerce business. It is essential to set in a precise manner to avoid any misunderstandings. 
 
-The terms and conditions may vary for different customer groups. However, default Magento 2 does not allowing setting customer-specific conditions. To make it easier, Meetanshi has developed **[Magento 2 Terms and Conditions by Customer Group]** extension that allows specifying different terms and conditions for different customer groups.
+The terms and conditions may vary for different customer groups. However, default Magento 2 does not allowing setting customer-specific conditions. To make it easier, Meetanshi has developed Magento 2 Terms and Conditions by Customer Group extension that allows specifying different terms and conditions for different customer groups.
 
 There are different customer groups such as not logged in, general, wholesale and retailers. You can set different terms and conditions for customer groups.
 
