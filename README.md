@@ -9,7 +9,7 @@ There are different customer groups such as not logged in, general, wholesale an
 
 As a result, display specific terms and conditions for different customer groups and establish trust among the customers!
 
-##Features of Magento 2 Terms and Conditions by Customer Group Extension:
+## Features of Magento 2 Terms and Conditions by Customer Group Extension:##
 
 *	Showcase customer-specific terms and conditions in your Magento 2 store.
 *	Backend option to manage all the terms and conditions based on customer groups. Even allows adding new terms and conditions by clicking on “Add New Condition” button.
